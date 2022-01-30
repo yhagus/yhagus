@@ -1,5 +1,7 @@
-![trophy](https://github-profile-trophy.vercel.app/?username=yhagus&row=1&theme=nord&margin-w=20)
-![trophy](https://github-contribution-stats.vercel.app/api/?username=yhagus)
+<div float="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=yhagus&row=2&column=3&theme=nord&margin-w=5" width="57%">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=yhagus" width="38%">
+</div>
 
 ### Hi there 👋
 
