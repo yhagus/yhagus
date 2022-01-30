@@ -1,10 +1,8 @@
-<div float="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=yhagus&row=2&column=3&theme=nord&margin-w=5" width="57%">
-  <img src="https://github-contribution-stats.vercel.app/api/?username=yhagus" width="38%">
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yhagus&row=1&column=7&theme=nord&margin-w=5" width="92%">
 </div>
 
-### Hi there 👋
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: ...
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yhagus&layout=compact&theme=radical" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yhagus&show_icons=true&theme=radical" width="50%">
+</div>
